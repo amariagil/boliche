@@ -1,0 +1,6 @@
+# Ignorar a pasta Temp e outras pastas temporárias do Unity
+Temp/
+Library/
+Logs/
+Obj/
+Build/
