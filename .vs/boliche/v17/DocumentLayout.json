@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\maria\\boliche\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{719D9FC3-2D1F-7D45-2A7C-5150EBCCDFD0}|Assembly-CSharp.csproj|c:\\users\\maria\\boliche\\assets\\scripts\\bolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{719D9FC3-2D1F-7D45-2A7C-5150EBCCDFD0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{719D9FC3-2D1F-7D45-2A7C-5150EBCCDFD0}|Assembly-CSharp.csproj|c:\\users\\maria\\boliche\\assets\\scripts\\gerenciadorpontuacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719D9FC3-2D1F-7D45-2A7C-5150EBCCDFD0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gerenciadorpontuacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719D9FC3-2D1F-7D45-2A7C-5150EBCCDFD0}|Assembly-CSharp.csproj|c:\\users\\maria\\boliche\\assets\\scripts\\pino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719D9FC3-2D1F-7D45-2A7C-5150EBCCDFD0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719D9FC3-2D1F-7D45-2A7C-5150EBCCDFD0}|Assembly-CSharp.csproj|c:\\users\\maria\\boliche\\assets\\scripts\\controlejogada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719D9FC3-2D1F-7D45-2A7C-5150EBCCDFD0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlejogada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BolaController.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\boliche\\Assets\\Scripts\\BolaController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BolaController.cs",
-              "ToolTip": "C:\\Users\\maria\\boliche\\Assets\\Scripts\\BolaController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BolaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ControleJogada.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\boliche\\Assets\\Scripts\\ControleJogada.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControleJogada.cs",
+              "ToolTip": "C:\\Users\\maria\\boliche\\Assets\\Scripts\\ControleJogada.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControleJogada.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T11:51:07.954Z",
+              "WhenOpened": "2024-12-10T03:06:28.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GerenciadorPontuacao.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\boliche\\Assets\\Scripts\\GerenciadorPontuacao.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GerenciadorPontuacao.cs",
+              "ToolTip": "C:\\Users\\maria\\boliche\\Assets\\Scripts\\GerenciadorPontuacao.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GerenciadorPontuacao.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:02:23.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pino.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\boliche\\Assets\\Scripts\\Pino.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pino.cs",
+              "ToolTip": "C:\\Users\\maria\\boliche\\Assets\\Scripts\\Pino.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:01:14.196Z",
               "EditorCaption": ""
             }
           ]
